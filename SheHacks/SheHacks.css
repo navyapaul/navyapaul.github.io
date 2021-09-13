@@ -1,0 +1,50 @@
+h1 {
+    color: #420516;
+    text-align: center;
+    font-weight:bolder;
+    font-size:xx-large;
+    text-decoration: underline;
+  }
+  h3{
+      color: #420516;
+     line-height: 0%;
+     text-align: center;
+     font-weight: bolder;
+  }
+  h2{
+      color: #B42B51;
+  }
+  h4{
+      color: black;
+      font-weight: bold;
+  }
+body{
+    background-color: #FFE3E3;
+    background: no-repeat center/cover
+    url("https://images.unsplash.com/photo-1534126506432-a0173ba75bf6?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NzJ8fHdvbWVufGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60");
+    image-resolution: from-image 300dpi;
+    font-family: sans-serif;
+}
+
+
+    div{
+    background-color: #FFF6CD;
+    border-radius: 30px;
+    padding: 15px;
+    padding-top: 5px;
+    margin: auto;
+    margin-bottom: 20px;
+    width: 300px;
+    border-style:solid;
+    border-color: #420516;
+}
+p{
+    font-style: italic;
+}
+.mission{
+    margin-top: 50px;
+}
+.mission p{
+    font-weight: bold;
+    font-style: normal;
+}
